@@ -7,3 +7,4 @@ slides
     nextBtn:$(".next a"),//下一张按钮
     prevBtn:$(".prev a")//上一张按钮
 ｝
+test
